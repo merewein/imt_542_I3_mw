@@ -7,3 +7,5 @@ The information visualized is a compilation of the 10 most common names for pets
 
 ## Instructions
 The repository contains a Python Notebook file that can be opened in Google Colab. Download the file and import into Colab, copy and paste the code, or click the link when you view the file in Github that says 'open in Colab'.
+
+The csv file containing the data is in the repository, but can also be downloaded at https://catalog.data.gov/dataset/seattle-pet-licenses-f092d
